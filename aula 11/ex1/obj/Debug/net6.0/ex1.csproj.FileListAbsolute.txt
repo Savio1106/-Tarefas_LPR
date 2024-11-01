@@ -1,0 +1,5 @@
+C:\Users\Aluno\Documents\GitHub\-Tarefas_LPR\aula 11\ex1\obj\Debug\net6.0\ex1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\-Tarefas_LPR\aula 11\ex1\obj\Debug\net6.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\-Tarefas_LPR\aula 11\ex1\obj\Debug\net6.0\ex1.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\-Tarefas_LPR\aula 11\ex1\obj\Debug\net6.0\ex1.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\-Tarefas_LPR\aula 11\ex1\obj\Debug\net6.0\ex1.csproj.CoreCompileInputs.cache
